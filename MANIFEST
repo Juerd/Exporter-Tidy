@@ -7,6 +7,5 @@ META.json			Module JSON meta-data (added by MakeMaker)
 META.yml			Module YAML meta-data (added by MakeMaker)
 README
 t/1.t
-t/lib/Test/Builder.pm
 t/lib/Test/More.pm
 Tidy.pm
