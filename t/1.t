@@ -1,4 +1,3 @@
-use lib 't/lib';
 use Test::More tests => 36;
 BEGIN { require_ok('Exporter::Tidy') };
 
